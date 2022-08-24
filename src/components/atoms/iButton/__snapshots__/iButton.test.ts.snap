@@ -1,0 +1,24 @@
+// Vitest Snapshot v1
+
+exports[`Button > should render as a Flat Button 1`] = `
+"<button type=\\"button\\" class=\\"v-btn v-theme--light bg-primary v-btn--density-default v-btn--size-default v-btn--variant-flat\\"><span class=\\"v-btn__overlay\\"></span><span class=\\"v-btn__underlay\\"></span>
+  <!----><span class=\\"v-btn__content\\" data-no-activator=\\"\\">Flat Button</span>
+  <!---->
+  <!---->
+</button>"
+`;
+
+exports[`Button > should render as an Icon Button 1`] = `
+"<button type=\\"button\\" class=\\"v-btn v-btn--elevated v-btn--icon v-theme--light bg-primary v-btn--density-default v-btn--size-default v-btn--variant-elevated\\"><span class=\\"v-btn__overlay\\"></span><span class=\\"v-btn__underlay\\"></span>
+  <!----><span class=\\"v-btn__content\\" data-no-activator=\\"\\"><i class=\\"mdi-home-outline mdi v-icon notranslate v-theme--light v-icon--size-default\\" aria-hidden=\\"true\\"></i></span>
+  <!---->
+  <!---->
+</button>"
+`;
+
+exports[`Button > should render as an Icon and text button 1`] = `
+"<button type=\\"button\\" class=\\"v-btn v-theme--light bg-primary v-btn--density-default v-btn--size-default v-btn--variant-flat\\"><span class=\\"v-btn__overlay\\"></span><span class=\\"v-btn__underlay\\"></span><span class=\\"v-btn__prepend\\"><i class=\\"mdi-home-outline mdi v-icon notranslate v-theme--light v-icon--size-default\\" aria-hidden=\\"true\\"></i></span><span class=\\"v-btn__content\\" data-no-activator=\\"\\">Flat Button</span>
+  <!---->
+  <!---->
+</button>"
+`;

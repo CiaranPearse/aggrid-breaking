@@ -1,0 +1,15 @@
+export const Appearances = {
+  H1: 'h1',
+  H2: 'h2',
+  H3: 'h3',
+  H4: 'h4',
+  H5: 'h5',
+  H6: 'h6',
+  Subtitle1: 'subtitle-1',
+  Subtitle2: 'subtitle-2',
+  Body1: 'body-1',
+  Body2: 'body-2',
+  Button: 'button',
+  Caption: 'caption',
+  Overline: 'overline',
+};

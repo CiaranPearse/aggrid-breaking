@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`Typography > renders with Click Me 1`] = `"<div class=\\"typography-text text-body-1 text-left font-weight-regular\\">Click Me</div>"`;
+
+exports[`Typography > renders with Click Me as Caption 1`] = `"<div class=\\"typography-text text-caption text-left font-weight-regular\\">Click Me</div>"`;
+
+exports[`Typography > renders with Click Me as body-1 1`] = `"<div class=\\"typography-text text-body-1 text-center font-weight-regular\\">Click Me</div>"`;
+
+exports[`Typography > renders with Click Me as body-1 and bolder 1`] = `"<div class=\\"typography-text text-body-1 text-center\\">Click Me</div>"`;
